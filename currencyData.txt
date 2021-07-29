@@ -1,0 +1,63 @@
+Argentine Peso	96.617712	0.010350
+Australian Dollar	1.354490	0.738285
+Bahraini Dinar	0.376000	2.659574
+Botswana Pula	11.126240	0.089878
+Brazilian Real	5.116232	0.195456
+British Pound	0.717596	1.393543
+Bruneian Dollar	1.354892	0.738066
+Bulgarian Lev	1.649673	0.606181
+Canadian Dollar	1.248912	0.800697
+Chilean Peso	761.835598	0.001313
+Chinese Yuan Renminbi	6.470891	0.154538
+Colombian Peso	3892.953847	0.000257
+Croatian Kuna	6.331411	0.157943
+Czech Koruna	21.564114	0.046373
+Danish Krone	6.273183	0.159409
+Emirati Dirham	3.672500	0.272294
+Euro	0.843464	1.185586
+Hong Kong Dollar	7.775610	0.128607
+Hungarian Forint	303.761007	0.003292
+Icelandic Krona	124.832913	0.008011
+Indian Rupee	74.279469	0.013463
+Indonesian Rupiah	14484.757930	0.000069
+Iranian Rial	42025.282965	0.000024
+Israeli Shekel	3.250951	0.307602
+Japanese Yen	109.749734	0.009112
+Kazakhstani Tenge	425.651851	0.002349
+Kuwaiti Dinar	0.300531	3.327446
+Libyan Dinar	4.505844	0.221934
+Malaysian Ringgit	4.222597	0.236821
+Mauritian Rupee	42.669894	0.023436
+Mexican Peso	19.897827	0.050257
+Nepalese Rupee	119.404247	0.008375
+New Zealand Dollar	1.434424	0.697144
+Norwegian Krone	8.776339	0.113943
+Omani Rial	0.384500	2.600780
+Pakistani Rupee	162.172153	0.006166
+Philippine Peso	50.337643	0.019866
+Polish Zloty	3.875341	0.258042
+Qatari Riyal	3.640000	0.274725
+Romanian New Leu	4.150708	0.240923
+Russian Ruble	73.320873	0.013639
+Saudi Arabian Riyal	3.750000	0.266667
+Singapore Dollar	1.354892	0.738066
+South African Rand	14.713292	0.067966
+South Korean Won	1145.559080	0.000873
+Sri Lankan Rupee	199.478422	0.005013
+Swedish Krona	8.582169	0.116521
+Swiss Franc	0.908855	1.100285
+Taiwan New Dollar	27.929919	0.035804
+Thai Baht	32.873914	0.030419
+Trinidadian Dollar	6.787301	0.147334
+Turkish Lira	8.545719	0.117018
+Venezuelan Bolivar	397599687017.275940	0.000000
+Euro	0.843464	1.185586
+British Pound	0.717596	1.393543
+Indian Rupee	74.279469	0.013463
+Australian Dollar	1.354490	0.738285
+Canadian Dollar	1.248912	0.800697
+Singapore Dollar	1.354892	0.738066
+Swiss Franc	0.908855	1.100285
+Malaysian Ringgit	4.222597	0.236821
+Japanese Yen	109.749734	0.009112
+Chinese Yuan Renminbi	6.470891	0.154538
